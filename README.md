@@ -7,17 +7,18 @@ The purpose of this repository is to strengthen my understanding of machine lear
 ---
 
 ## 📚 Topics Covered
-
+- Train-Test Split
+- Model Evaluation Metrics
 - Linear Regression
 - Logistic Regression
 - K-Fold Cross Validation
 - Decision Tree
+- Random Forest
 - K-Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
-- Train-Test Split
 - Hyperparameter Tuning with GridSearchCV
 - Principal Component Analysis (PCA)
-- Model Evaluation Metrics
+
 
 ---
 
