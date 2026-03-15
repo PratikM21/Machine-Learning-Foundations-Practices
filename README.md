@@ -10,11 +10,11 @@ The purpose of this repository is to strengthen my understanding of machine lear
 
 - Linear Regression
 - Logistic Regression
+- K-Fold Cross Validation
+- Decision Tree
 - K-Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
 - Train-Test Split
-- K-Fold Cross Validation
-- Stratified K-Fold
 - Hyperparameter Tuning with GridSearchCV
 - Principal Component Analysis (PCA)
 - Model Evaluation Metrics
