@@ -16,6 +16,7 @@ The purpose of this repository is to strengthen my understanding of machine lear
 - Random Forest
 - K-Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
+- Naive Bayes Classifier Algorithm
 - Hyperparameter Tuning with GridSearchCV
 - Principal Component Analysis (PCA)
 
