@@ -18,6 +18,7 @@ The purpose of this repository is to strengthen my understanding of machine lear
 - Support Vector Machines (SVM)
 - Naive Bayes Classifier Algorithm
 - Hyperparameter Tuning with GridSearchCV
+- L1 and L2 Regularization | Lasso, Ridge Regression
 - Principal Component Analysis (PCA)
 
 
