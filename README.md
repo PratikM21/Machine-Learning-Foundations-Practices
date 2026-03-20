@@ -19,6 +19,7 @@ The purpose of this repository is to strengthen my understanding of machine lear
 - Naive Bayes Classifier Algorithm
 - Hyperparameter Tuning with GridSearchCV
 - L1 and L2 Regularization | Lasso, Ridge Regression
+- Bias Variance
 - Principal Component Analysis (PCA)
 
 
