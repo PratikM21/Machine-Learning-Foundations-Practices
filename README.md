@@ -13,7 +13,6 @@ The purpose of this repository is to strengthen my understanding of machine lear
 - Logistic Regression
 - K-Fold Cross Validation
 - Decision Tree
-- Random Forest
 - K-Nearest Neighbors (KNN)
 - Support Vector Machines (SVM)
 - Naive Bayes Classifier Algorithm
